@@ -1,0 +1,37 @@
+[
+    {
+        "userdId":"1",
+        "name":"Sarankumar",
+        "email":"saran@gmail.com",
+        "mobile":"8245265565",
+        "password":"Saran123"
+    },
+    {
+        "userdId":"2",
+        "name":"Baskar",
+        "email":"baskar@gmail.com",
+        "mobile":"8125526565",
+        "password":"Baskar123"
+    },
+    {
+        "userdId":"3",
+        "name":"Aravind",
+        "email":"aravind@gmail.com",
+        "mobile":"8454548666",
+        "password":"Aravind123"
+    },
+    {
+        "userdId":"4",
+        "name":"Manoj",
+        "email":"manoj@gmail.com",
+        "mobile":"7662549564",
+        "password":"Manoj123"
+    },
+    {
+        "userdId":"5",
+        "name":"Jeyaprakesh",
+        "email":"jeya@gmail.com",
+        "mobile":"7461549898",
+        "password":"Jeya123"
+    }
+]
